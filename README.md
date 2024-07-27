@@ -19,8 +19,8 @@
 
 - **Phát hiện tài sản**: Tự động phát hiện tất cả các thiết bị trên mạng.
 - **Đánh giá lỗ hổng**: Quét định kỳ để phát hiện các lỗ hổng bảo mật.
+- **HIDS**: Sử dụng OSSEC có sẵn trên AV để bảo vệ Host.
 - **Phát hiện xâm nhập**: Giám sát thời gian thực cho hoạt động đáng ngờ và xâm nhập tiềm năng.
-- **Giám sát hành vi**: Phân tích mẫu lưu lượng mạng để phát hiện hành vi bất thường.
 - **SIEM**: Tập trung ghi nhật ký, tương quan và cảnh báo các sự kiện bảo mật.
 - **Thông tin đe dọa**: Tích hợp với Open Threat Exchange (OTX) của AlienVault để nhận thông tin đe dọa cập nhật.
 
@@ -48,8 +48,8 @@
 
 ### Hình minh họa
 
-![AlienVault OSSIM](![image](https://github.com/user-attachments/assets/a6a404b2-b4d1-4148-a0e0-9b3c38213b8a)
-)
+![Topology mạng triển khai](https://github.com/user-attachments/assets/41d71ca6-efd5-4585-91c4-e46596c23b4f)
+
 
 ### Kết luận
 

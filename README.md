@@ -48,7 +48,7 @@
 
 ### Hình minh họa
 
-![AlienVault OSSIM](![image](https://github.com/user-attachments/assets/797087f8-1d30-4694-ac64-c1ae7d4a672c))
+![AlienVault OSSIM](![image]https://github.com/user-attachments/assets/797087f8-1d30-4694-ac64-c1ae7d4a672c)
 
 ### Kết luận
 

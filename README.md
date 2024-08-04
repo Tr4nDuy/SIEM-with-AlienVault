@@ -46,7 +46,7 @@
    - Kết nối AlienVault OSSIM với Open Threat Exchange (OTX).
    - Sử dụng các nguồn thông tin đe dọa để nâng cao giám sát an ninh.
 
-### Hình minh họa
+### Topology mạng triển khai
 
 ![Topology mạng triển khai](https://github.com/user-attachments/assets/41d71ca6-efd5-4585-91c4-e46596c23b4f)
 

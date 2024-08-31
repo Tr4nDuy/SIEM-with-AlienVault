@@ -1,7 +1,10 @@
-# NT534.O21.ANTT
-**An toàn mạng máy tính nâng cao - NT534.O21.ANTT**
+# AlienVault OSSIM
+Security information &amp; event management with AlienVault OSSIM
 
-## Đồ án: AlienVault OSSIM
+### Thành viên thực hiện
+1. Nguyễn Hoài Phương
+2. Phạm Ngọc Thiện
+3. Trần Minh Duy
 
 ### Giới thiệu
 
@@ -47,10 +50,9 @@
    - Sử dụng các nguồn thông tin đe dọa để nâng cao giám sát an ninh.
 
 ### Topology mạng triển khai
-
-![Topology mạng triển khai](https://github.com/user-attachments/assets/41d71ca6-efd5-4585-91c4-e46596c23b4f)
+![Topology](https://github.com/user-attachments/assets/37fdeb43-3413-4548-ba4c-8caa5a7a2e17)
 
 
 ### Kết luận
 
-Đồ án AlienVault OSSIM trong khóa học NT534.O21.ANTT cung cấp một giới thiệu toàn diện về hệ thống SIEM và quản lý an ninh mạng. Bằng việc hoàn thành đồ án này, sinh viên sẽ có những kiến thức và kỹ năng thực tiễn cần thiết để quản lý an ninh trong các môi trường mạng phức tạp.
+Đồ án AlienVault OSSIM cung cấp một giới thiệu toàn diện về hệ thống SIEM và quản lý an ninh mạng. Bằng việc hoàn thành đồ án này, sinh viên sẽ có những kiến thức và kỹ năng thực tiễn cần thiết để quản lý an ninh trong các môi trường mạng phức tạp.

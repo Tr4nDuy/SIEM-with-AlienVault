@@ -50,8 +50,7 @@ Security information &amp; event management with AlienVault OSSIM
    - Sử dụng các nguồn thông tin đe dọa để nâng cao giám sát an ninh.
 
 ### Topology mạng triển khai
-![Topology](https://github.com/user-attachments/assets/37fdeb43-3413-4548-ba4c-8caa5a7a2e17)
-
+![Topology mạng triển khai](https://github.com/user-attachments/assets/41d71ca6-efd5-4585-91c4-e46596c23b4f)
 
 ### Kết luận
 
